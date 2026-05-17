@@ -1,2 +1,7 @@
-### // The [dude](https://twitter.com/blazerchlopiec) behind potion soulslike 💬💬 
-Using C#, C and Python ✔️
+### // .NET developer
+
+Building apps with C# and the .NET ecosystem
+(WinForms • ASP.NET Core)
+
+Also using:<br>
+C++ • C • Python • JavaScript
