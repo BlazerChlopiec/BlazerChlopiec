@@ -1,7 +1,5 @@
-### // .NET developer
+## // Software Dev 
 
-Building apps with C# and the .NET ecosystem
-(Xna • Blazor • WinForms • ASP.NET Core)
-
-Also using:<br>
-C++ • C • Python • JavaScript
+*   **Desktop & Game Dev:** C# (MonoGame • WinForms)
+*   **Web & Server Dev:** Python (Flask, Django) •  C# (ASP.NET Core, Blazor) • JavaScript
+*   **Low-Level Coding:** C • C++
